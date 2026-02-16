@@ -16,11 +16,11 @@ In this project, customer, employee, and car datasets were cleaned using a reusa
 
 
 
-Implementation
+<h2>Implementation</h2>
 
 All cleaning operations were implemented in a custom DataCleaning class, enabling a modular and reusable pipeline that can be applied across multiple datasets.
 
-Result
+<h2>Result</h2>
 
 The final datasets are clean, consistent, privacy-safe, and ready for analysis or machine learning applications.
 
