@@ -7,13 +7,14 @@ In this project, customer, employee, and car datasets were cleaned using a reusa
 
 ## Key Cleaning Steps
 
-<li>Removed duplicate records to eliminate redundancy</li>
+<ul>
+  <li>Removed duplicate records to eliminate redundancy</li>
+  <li>Handled missing values using appropriate filling techniques</li>
+  <li>Masked phone numbers to protect sensitive information</li>
+  <li>Standardized data formats for consistency</li>
+</ul>
 
-Handled missing values using appropriate filling techniques
 
-Masked phone numbers to protect sensitive information
-
-Standardized data formats for consistency
 
 Implementation
 
