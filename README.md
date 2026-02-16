@@ -5,9 +5,9 @@ Data cleaning is the process of detecting, correcting, and standardizing raw dat
 
 In this project, customer, employee, and car datasets were cleaned using a reusable, class-based approach to ensure data quality and privacy compliance.
 
-Key Cleaning Steps
+## Key Cleaning Steps
 
-Removed duplicate records to eliminate redundancy
+<li>Removed duplicate records to eliminate redundancy</li>
 
 Handled missing values using appropriate filling techniques
 
