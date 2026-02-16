@@ -26,6 +26,7 @@ The final datasets are clean, consistent, privacy-safe, and ready for analysis o
 
 
 
+```
 data-cleaning-project/
 │
 ├── data/
@@ -40,4 +41,6 @@ data-cleaning-project/
 │   └── (processed datasets)
 │
 └── README.md
+```
+
 
