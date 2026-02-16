@@ -23,24 +23,3 @@ All cleaning operations were implemented in a custom DataCleaning class, enablin
 <h2>Result</h2>
 
 The final datasets are clean, consistent, privacy-safe, and ready for analysis or machine learning applications.
-
-
-
-```
-data-cleaning-project/
-│
-├── data/
-│   ├── customer.csv
-│   ├── employee.csv
-│   └── car.csv
-│
-├── src/
-│   └── data_cleaning.py   # DataCleaning class & functions
-│
-├── cleaned_data/
-│   └── (processed datasets)
-│
-└── README.md
-```
-
-
